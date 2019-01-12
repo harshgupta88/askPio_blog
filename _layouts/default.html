@@ -69,11 +69,8 @@
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
                 
-                 <!-- {% if page.url == "/about.html" %}
-                <li class="nav-item active">
-                {% else %} -->
                 <li class="nav-item">
-               <!-- {% endif %} -->
+		{% if page.url == "/about.html" || page.url=""  %}
                 <a class="nav-link" href="{{ site.mainurl }}/about">About</a>
                 </li>
                 
