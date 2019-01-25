@@ -2,7 +2,7 @@
 layout: post
 title:  "Artificial Intelligence"
 author: rinkal
-categories: [ subwai, ai ]
+categories: [ ai ]
 image: assets/images/01252019.jpg
 featured: true
 hidden: true
