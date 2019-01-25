@@ -4,10 +4,11 @@ description: "Subwai, Bot, AI, LUIS"
 meta_description: "Subwai blog"
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
-baseurl: /blog
-google_analytics: ''
+baseurl: ''
+mainurl: 'http://subwai.com'
+google_analytics: 'UA-132318762-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6ace40984a93be00d&amp;id=98ff40b631'
 
 # Authors
 authors:
