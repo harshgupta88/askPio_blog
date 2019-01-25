@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence"
-author: john
+author: rinkal
 categories: [ subwai, ai ]
 image: assets/images/01252019.jpg
 featured: true

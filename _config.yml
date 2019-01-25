@@ -26,8 +26,16 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: info.subwai@gmail.com
     web: https://blog.subwai.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: https://twitter.com/Subwai1
+    description: "This is the author box."
+  rinkal:
+    name: Rinkal  
+    display_name: Rinkal
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: info.subwai@gmail.com
+    web: https://blog.subwai.net
+    twitter: https://twitter.com/Subwai1
+    description: "She is working in R&D department of Subwai.com"
 
 # Plugins
 plugins: 
