@@ -5,7 +5,7 @@ author: rinkal
 categories: [ Subwai, AI ]
 image: assets/images/01252019.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 
 In this era where information is required at a galloping speed, where everyone requires easy and quick access to information; Artificial intelligence comes to play.
