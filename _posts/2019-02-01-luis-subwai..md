@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LUIS and Subwai"
-author: sal
+author: rinkal
 categories: [ ]
 image: "assets/images/02012019.png"
 ---
