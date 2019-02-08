@@ -13,24 +13,24 @@ mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6a
 # Authors
 authors:
   sal:
-    name: Harsh
-    display_name: Harsh
+    name: Subwai Team
+    display_name: Subwai Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: harshdeepgupta49@gmail.com
     web: https://subwai.com
     twitter: https://twitter.com/
     description: "Subwai Description"
   john:
-    name: Rinkal  
-    display_name: Rinkal
+    name: Subwai Team  
+    display_name: Subwai Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.subwai@gmail.com
     web: https://blog.subwai.net
     twitter: https://twitter.com/Subwai1
     description: "This is the author box."
   rinkal:
-    name: Rinkal  
-    display_name: Rinkal
+    name: Subwai Team  
+    display_name: Subwai Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.subwai@gmail.com
     web: https://blog.subwai.net
