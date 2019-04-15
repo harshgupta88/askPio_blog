@@ -5,7 +5,7 @@ meta_description: "Askpio blog"
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
 baseurl: ''
-mainurl: 'http://Askpio.com'
+mainurl: 'http://askpio.com'
 google_analytics: 'UA-132318762-1'
 disqus: 'https-blog-subwai-com'
 mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6ace40984a93be00d&amp;id=98ff40b631'
@@ -17,14 +17,14 @@ authors:
     display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: harshdeepgupta49@gmail.com
-    web: https://subwai.com
+    web: https://blog.askpio.com
     twitter: https://twitter.com/
     description: "Askpio Description"
   john:
     name: Askpio Team  
     display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
-    email: info.subwai@gmail.com
+    email: info.askpio@gmail.com
     web: https://blog.Askpio.com
     twitter: https://twitter.com/Subwai1
     description: "This is the author box."
@@ -32,7 +32,7 @@ authors:
     name: Askpio Team  
     display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
-    email: info.subwai@gmail.com
+    email: info.askpio@gmail.com
     web: https://blog.Askpio.com
     twitter: https://twitter.com/Subwai1
     description: "She is working in R&D department of Askpio.com"
