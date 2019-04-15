@@ -1,11 +1,11 @@
 # Site
-name: "Subwai"
-description: "Subwai, Bot, AI, LUIS"
-meta_description: "Subwai blog"
+name: "Askpio"
+description: "Askpio, Bot, AI, LUIS"
+meta_description: "Askpio blog"
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
 baseurl: ''
-mainurl: 'http://subwai.com'
+mainurl: 'http://Askpio.com'
 google_analytics: 'UA-132318762-1'
 disqus: 'https-blog-subwai-com'
 mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6ace40984a93be00d&amp;id=98ff40b631'
@@ -13,29 +13,29 @@ mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6a
 # Authors
 authors:
   sal:
-    name: Subwai Team
-    display_name: Subwai Team
+    name: Askpio Team
+    display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: harshdeepgupta49@gmail.com
     web: https://subwai.com
     twitter: https://twitter.com/
-    description: "Subwai Description"
+    description: "Askpio Description"
   john:
-    name: Subwai Team  
-    display_name: Subwai Team
+    name: Askpio Team  
+    display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.subwai@gmail.com
-    web: https://blog.subwai.net
+    web: https://blog.Askpio.com
     twitter: https://twitter.com/Subwai1
     description: "This is the author box."
   rinkal:
-    name: Subwai Team  
-    display_name: Subwai Team
+    name: Askpio Team  
+    display_name: Askpio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.subwai@gmail.com
-    web: https://blog.subwai.net
+    web: https://blog.Askpio.com
     twitter: https://twitter.com/Subwai1
-    description: "She is working in R&D department of Subwai.com"
+    description: "She is working in R&D department of Askpio.com"
 
 # Plugins
 plugins: 
