@@ -1,7 +1,7 @@
 # Site
-name: "Askpio"
-description: "Askpio, Bot, AI, LUIS"
-meta_description: "Askpio blog"
+name: "askPio"
+description: "askPio, Bot, AI, LUIS"
+meta_description: "askPio blog"
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
 baseurl: ''
@@ -13,24 +13,24 @@ mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6a
 # Authors
 authors:
   sal:
-    name: Askpio Team
-    display_name: Askpio Team
+    name: askPio Team
+    display_name: askPio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: harshdeepgupta49@gmail.com
     web: https://blog.askpio.com
     twitter: https://twitter.com/
     description: "Askpio Description"
   john:
-    name: Askpio Team  
-    display_name: Askpio Team
+    name: askPio Team  
+    display_name: askPio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.askpio@gmail.com
     web: https://blog.askpio.com
     twitter: https://twitter.com/Subwai1
     description: "This is the author box."
   rinkal:
-    name: Askpio Team  
-    display_name: Askpio Team
+    name: askPio Team  
+    display_name: askPio Team
     gravatar: 35be3d2ebffa6d9ee03e64328e6988eb
     email: info.askpio@gmail.com
     web: https://blog.askpio.com
