@@ -3,7 +3,7 @@ layout: post
 title:  "Artificial Intelligence"
 author: rinkal
 categories: [ ]
-image: assets/images/01252019.jpg
+image: https://content.askpio.com/Images/blog/AI_01252019.jpg
 featured: true
 hidden: false
 ---
