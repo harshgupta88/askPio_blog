@@ -3,7 +3,8 @@ name: "askPio"
 description: "askPio, Bot, AI, LUIS"
 meta_description: "askPio blog"
 logo: 'assets/images/logo.png'
-favicon: 'https://content.askpio.com/favicon/favicon.ico'
+content: "https://content.askpio.com/favicon/"
+favicon: 'favicon.ico'
 baseurl: ''
 mainurl: 'http://askpio.com'
 google_analytics: 'UA-132318762-1'
